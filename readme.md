@@ -15,3 +15,9 @@ The initial dataset has the following specifics
 - 8 attributes are provided (including Timestamps, GPS-location for Pickup and dropoff, passenger count, fare)
 - No dependent variable is given (Exploratory Analysis)
 - The dataset can be obtained from: https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city
+
+Analysis steps
+- Plotting on Folium Heatmap
+- Pickup time analysis
+- Clustering using k-means
+-  ... tbd
