@@ -4,6 +4,9 @@
 
 ### Description
 
+![image](https://user-images.githubusercontent.com/29613804/151704367-38f38ede-b04f-4d26-8a58-403110e97ecf.png)
+
+
 Sample project using a dataset from ridehailing service Uber, provided for a Kaggle competition.
 
 The analysis is performed using the scikit-learn package in Python. For user readability, a Jupyter Notebook is provided which guides the user through the steps of the analysis. 
